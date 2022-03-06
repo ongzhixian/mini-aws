@@ -1,0 +1,4 @@
+# Put the Python modules that you want packed into a layer into this file.
+# Then install them
+# pip install --target=lambda_layers\web\python -r lambda-layers-web-requirements.txt
+Jinja2==3.0.3

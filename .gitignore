@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Zx custom
+node_modules
+cdk.out
+lambda_layers/web
+.idea
